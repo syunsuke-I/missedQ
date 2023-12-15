@@ -1,0 +1,7 @@
+{
+  "slackApiURL": "https://slack.com/api/conversations.history",
+  "monitoredChannel": "Specify the Slack channel you want to monitor here",
+  "sendTo": "Specify the Slack channel or user where messages will be sent here",
+  "postMessage" : "https://slack.com/api/chat.postMessage"
+}
+
